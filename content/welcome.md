@@ -26,6 +26,8 @@ We know that first impressions are important, so we've populated your new site w
 
 ### Quick Start
 
+
+
 ```sh
 # if you don't have ember-cli installed already
 npm install -g ember-cli
