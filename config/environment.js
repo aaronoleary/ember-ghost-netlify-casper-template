@@ -24,15 +24,15 @@ module.exports = function(environment) {
     },
 
     blog: {
-      title: 'Ember Ghost',
-      description: 'Static Blog System - Built with Ember',
-      coverImage: '/images/blog-cover.jpg',
+      title: 'nontechtech',
+      description: 'Land your dream tech job, no code required',
+      coverImage: '/images/nontech.jpg',
 
       navigation: [{
         label: 'Home',
         route: 'index'
       }, {
-        label: 'Built by Stone Circle',
+        label: 'Built with ❤️',
         route: 'page',
         id: 'stone-circle'
       }]
